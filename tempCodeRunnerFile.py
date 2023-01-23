@@ -1,0 +1,1 @@
+"^amber|exalter|all skill gem"
